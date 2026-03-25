@@ -1,15 +1,18 @@
-# Student Distraction Predictor
+# Student Distraction Predictor using Machine Learning
 
-## 📌 Description
-This project predicts the level of student distraction using machine learning. It considers factors like screen time, sleep hours, and study hours to classify distraction levels as Low, Medium, or High.
+## 📌 Project Overview
+This project predicts the level of student distraction based on daily habits such as screen time, sleep hours, and study hours using a machine learning model.
 
-## 🛠️ Tools Used
+## 🎯 Problem
+Students often face distractions but are unaware of how their habits affect focus and productivity.
+
+## 🤖 Solution
+A Decision Tree Classifier is used to predict distraction levels (Low, Medium, High) based on input features.
+
+## 🛠️ Technologies Used
 - Python
 - Pandas
 - Scikit-learn
-
-## 🤖 Model Used
-Decision Tree Classifier
 
 ## ▶️ How to Run
 1. Install dependencies:
@@ -24,7 +27,9 @@ Decision Tree Classifier
 - Study hours
 
 ## 📈 Output
-- Predicted Distraction Level (Low / Medium / High)
+- Predicted distraction level
 
-## 🎯 Purpose
-To help students understand how their daily habits affect their focus and productivity.
+## 🚀 Future Improvements
+- Add real dataset
+- Build UI
+- Expand features
