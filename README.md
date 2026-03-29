@@ -1,7 +1,9 @@
 # Student Distraction Predictor using Machine Learning
 Name: Mabel Jacquelin Fernandes
+
 Registration number:25BAI10423
-Course: Fundamnetals AI and ML
+
+Course: Fundamentals of AI and ML
 
 
 ## 📌 Project Overview
