@@ -1,4 +1,8 @@
 # Student Distraction Predictor using Machine Learning
+Name: Mabel Jacquelin Fernandes
+Registration number:25BAI10423
+Course: Fundamnetals AI and ML
+
 
 ## 📌 Project Overview
 This project predicts the level of student distraction based on daily habits such as screen time, sleep hours, and study hours using a machine learning model.
